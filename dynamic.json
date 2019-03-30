@@ -1,0 +1,42 @@
+{
+"profile":{
+  "image":"images/baby.jpg",
+  "name":"cherry",
+  "designation":"cse",
+  "rollno":"17691a05d8",
+  "mail":"chaitU@gamil.com"
+},
+"career":{
+  "info":"on stress"
+},
+"education":[
+  {"sno":"1",
+    "college":"mits",
+    "affiliated":"jntua",
+    "percentage":"87",
+    "passing":"2019"
+  },
+{"sno":"2",
+  "college":"bjc",
+  "affiliated":"svu",
+  "percentage":"89",
+  "passing":"2015"
+},
+{
+  "sno":"3",
+    "college":"scca",
+    "affiliated":"-",
+    "percentage":"92",
+    "passing":"2013"
+  }
+],
+"skills":[{
+  "name":"webtech",
+  "info":["html","java"]
+},
+{
+  "name":"db",
+  "info":["jdbc","sql"]
+}
+]
+}
